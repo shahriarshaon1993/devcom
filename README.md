@@ -4,6 +4,7 @@ This is a social network for developer. you can shere your creative things.
 
 ## Packages Used
 -   Install `npm install tailwindcss`
+-   Install `composer require barryvdh/laravel-debugbar --dev`
 
 ## Installation Instructions
 
